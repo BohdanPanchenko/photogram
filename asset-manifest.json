@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/photogram/static/css/main.a1d3784b.css",
+    "main.js": "/photogram/static/js/main.06118993.js",
+    "static/media/bg-texture-white.png": "/photogram/static/media/bg-texture-white.ba547d7c76257ce58bf3.png",
+    "index.html": "/photogram/index.html",
+    "main.a1d3784b.css.map": "/photogram/static/css/main.a1d3784b.css.map",
+    "main.06118993.js.map": "/photogram/static/js/main.06118993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1d3784b.css",
+    "static/js/main.06118993.js"
+  ]
+}
